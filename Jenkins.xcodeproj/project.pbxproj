@@ -430,6 +430,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer: HongYang Zheng (9QK9964UNJ)";
 				DEVELOPMENT_TEAM = DV7AL7ZZ3G;
 				INFOPLIST_FILE = Jenkins/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.gqhmt.Jenkins;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -445,6 +446,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer: HongYang Zheng (9QK9964UNJ)";
 				DEVELOPMENT_TEAM = DV7AL7ZZ3G;
 				INFOPLIST_FILE = Jenkins/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.gqhmt.Jenkins;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -518,6 +520,7 @@
 				A56272481EAB8BD5009964B6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A56272491EAB8BD5009964B6 /* Build configuration list for PBXNativeTarget "JenkinsTests" */ = {
 			isa = XCConfigurationList;
@@ -526,6 +529,7 @@
 				A562724B1EAB8BD5009964B6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A562724C1EAB8BD5009964B6 /* Build configuration list for PBXNativeTarget "JenkinsUITests" */ = {
 			isa = XCConfigurationList;
@@ -534,6 +538,7 @@
 				A562724E1EAB8BD5009964B6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
